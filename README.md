@@ -25,7 +25,7 @@ This analysis identifies the countries with the most volcanoes and the tallest v
 3. Run each cell step-by-step to see the analysis
 
 ##  What I Learned
-## 📘 What I Learned
+##  What I Learned
 - Learned that the USA has the highest number of volcanoes in the dataset, which may reflect its active geological zones, like Alaska and the Pacific Northwest
 - Noticed that several of the world’s tallest volcanoes are located in Africa and Asia, emphasizing the global distribution of high-altitude volcanic activity
 - Discovered that many countries have volcanoes below 2000 meters, which may not be as tall but can still pose serious eruption risks near populated areas
